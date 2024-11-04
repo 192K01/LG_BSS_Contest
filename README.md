@@ -1,1 +1,1 @@
-# LG_BSS_Contest
+# LG BSS향 배터리 공모전
